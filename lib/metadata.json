@@ -1,0 +1,829 @@
+{
+  "vaultName": "obsidian-vault",
+  "lastExport": 1719195227871,
+  "pluginVersion": "1.8.01",
+  "validBodyClasses": "publish css-settings-manager theme-light show-inline-title show-ribbon",
+  "useCustomHeadContent": false,
+  "useCustomFavicon": false,
+  "files": [
+    "草稿/集合论.md",
+    "assets/en/Daniel J Velleman - How to Prove It-A Structured Approach (2019).pdf",
+    "assets/en/James Stewart, Lothar Redlin, Saleem Watson - Precalculus. Mathematics for Calculus-Cengage Learning (2024).pdf",
+    "assets/en/sd.html",
+    "assets/solution/Daniel J Velleman - How to Prove It_ A Structured Approach, Third Edition [3rd Ed] (Instructor's Solution Manual, Solutions)-Cambridge University Press, C.U.P, CUP (2019).pdf",
+    "math/alge-ana/Algebraic Number Theory.md",
+    "math/alge-ana/Discrete Mathematics.md",
+    "math/alge-ana/Game Theory.md",
+    "math/alge-ana/Number Theory.md",
+    "math/alge-ana-geo/ana/Advanced Probability Theory.md",
+    "math/alge-ana-geo/ana/calculus.md",
+    "math/alge-ana-geo/ana/precalculus.md",
+    "math/alge-ana-geo/ana/Probability Theory.md",
+    "math/alge-ana-geo/ana-alge/Advanced Mathematical Analysis.md",
+    "math/alge-ana-geo/ana-alge/Advanced Mathematical Statistics.md",
+    "math/alge-ana-geo/ana-alge/Mathematical Analysis.md",
+    "math/alge-ana-geo/ana-alge/Mathematical Statistics.md",
+    "math/alge-ana-geo/ana-alge/Numercial Analysis.md",
+    "math/alge-ana-geo/Algebraic Topology.md",
+    "math/alge-ana-geo/Algebraic Topology Motivation.md",
+    "math/alge-ana-geo/General Topology.md",
+    "math/alge-geo/Advanced Linear Algebra.md",
+    "math/alge-geo/Algebraic Geometry.md",
+    "math/alge-geo/Algebraic Geometry Motivation.md",
+    "math/alge-geo/Category Theory.md",
+    "math/alge-geo/Combinatorics.md",
+    "math/alge-geo/Lattice Theory.md",
+    "math/alge-geo/Linear Algebra.md",
+    "math/alge-geo/Motivation for Category Theory.md",
+    "math/algebra/Abstract Algebra.md",
+    "math/algebra/Advanced Abstract Algebra.md",
+    "math/algebra/Universal Algebra.md",
+    "math/ana-geo/Advanced Differential Geometry.md",
+    "math/ana-geo/Complex Analysis.md",
+    "math/ana-geo/Convex Optimization.md",
+    "math/ana-geo/Differential Equations.md",
+    "math/ana-geo/Differential Geometry.md",
+    "math/ana-geo/Optimization Theory.md",
+    "math/ana-geo/Partial Differential Equations.md",
+    "math/analysis/Functional Analysis.md",
+    "math/analysis/Real Analysis.md",
+    "math/analysis/the Theory of Computation.md",
+    "math/basis/Axiomatic Set Theory.md",
+    "math/basis/Mathematical Logic and Model Theory.md",
+    "math/basis/Naive Set Theory, Mathematical Reasoning, Proofs, and Discrete Mathematics.md",
+    "math/geo/Euclidean and Non-Euclidean Geometry.md",
+    "optional/Physics.md",
+    "optional/Python.md",
+    "philosophy/Logic.md",
+    "philosophy/Philosophy.md",
+    "philosophy/Philosophy of Probability and Statistics.md",
+    "philosophy/Problem Solving.md",
+    "philosophy/Statistics.md",
+    "philosophy/the Philosophy of Language.md",
+    "philosophy/the Philosophy of Mathematics and Logic.md",
+    "数学-main.md",
+    "main-main.md",
+    "lib/scripts/graph-wasm.wasm",
+    "lib/fonts/94f2f163d4b698242fef.otf",
+    "lib/fonts/72505e6a122c6acd5471.woff2",
+    "lib/fonts/2d5198822ab091ce4305.woff2",
+    "lib/fonts/c8ba52b05a9ef10f4758.woff2",
+    "lib/fonts/cb10ffd7684cd9836a05.woff2",
+    "lib/fonts/b5f0f109bc88052d4000.woff2",
+    "lib/fonts/cbe0ae49c52c920fd563.woff2",
+    "lib/fonts/535a6cf662596b3bd6a6.woff2",
+    "lib/fonts/70cc7ff27245e82ad414.ttf",
+    "lib/fonts/454577c22304619db035.ttf",
+    "lib/fonts/52ac8f3034507f1d9e53.ttf",
+    "lib/fonts/05b618077343fbbd92b7.ttf",
+    "lib/fonts/4bb6ac751d1c5478ff3a.woff2",
+    "lib/media/874d8b8e340f75575caa.svg",
+    "lib/media/3d6c1bdc4d87cde4de67.svg",
+    "lib/fonts/mathjax_zero.woff",
+    "lib/fonts/mathjax_main-regular.woff",
+    "lib/fonts/mathjax_main-bold.woff",
+    "lib/fonts/mathjax_math-italic.woff",
+    "lib/fonts/mathjax_main-italic.woff",
+    "lib/fonts/mathjax_math-bolditalic.woff",
+    "lib/fonts/mathjax_size1-regular.woff",
+    "lib/fonts/mathjax_size2-regular.woff",
+    "lib/fonts/mathjax_size3-regular.woff",
+    "lib/fonts/mathjax_size4-regular.woff",
+    "lib/fonts/mathjax_ams-regular.woff",
+    "lib/fonts/mathjax_calligraphic-regular.woff",
+    "lib/fonts/mathjax_calligraphic-bold.woff",
+    "lib/fonts/mathjax_fraktur-regular.woff",
+    "lib/fonts/mathjax_fraktur-bold.woff",
+    "lib/fonts/mathjax_sansserif-regular.woff",
+    "lib/fonts/mathjax_sansserif-bold.woff",
+    "lib/fonts/mathjax_sansserif-italic.woff",
+    "lib/fonts/mathjax_script-regular.woff",
+    "lib/fonts/mathjax_typewriter-regular.woff",
+    "lib/fonts/mathjax_vector-regular.woff",
+    "lib/fonts/mathjax_vector-bold.woff",
+    "lib/html/file-tree.html",
+    "lib/scripts/webpage.js",
+    "lib/scripts/graph-view.js",
+    "lib/scripts/graph-wasm.js",
+    "lib/scripts/graph-render-worker.js",
+    "lib/scripts/tinycolor.js",
+    "lib/scripts/pixi.js",
+    "lib/scripts/minisearch.js",
+    "lib/media/favicon.png",
+    "lib/scripts/graph-data.js",
+    "lib/styles/obsidian.css",
+    "lib/styles/global-variable-styles.css",
+    "lib/styles/main-styles.css",
+    "lib/styles/snippets.css"
+  ],
+  "mainDependencies": [
+    "lib/scripts/graph-wasm.wasm",
+    "lib/fonts/94f2f163d4b698242fef.otf",
+    "lib/fonts/72505e6a122c6acd5471.woff2",
+    "lib/fonts/2d5198822ab091ce4305.woff2",
+    "lib/fonts/c8ba52b05a9ef10f4758.woff2",
+    "lib/fonts/cb10ffd7684cd9836a05.woff2",
+    "lib/fonts/b5f0f109bc88052d4000.woff2",
+    "lib/fonts/cbe0ae49c52c920fd563.woff2",
+    "lib/fonts/535a6cf662596b3bd6a6.woff2",
+    "lib/fonts/70cc7ff27245e82ad414.ttf",
+    "lib/fonts/454577c22304619db035.ttf",
+    "lib/fonts/52ac8f3034507f1d9e53.ttf",
+    "lib/fonts/05b618077343fbbd92b7.ttf",
+    "lib/fonts/4bb6ac751d1c5478ff3a.woff2",
+    "lib/media/874d8b8e340f75575caa.svg",
+    "lib/media/3d6c1bdc4d87cde4de67.svg",
+    "lib/fonts/mathjax_zero.woff",
+    "lib/fonts/mathjax_main-regular.woff",
+    "lib/fonts/mathjax_main-bold.woff",
+    "lib/fonts/mathjax_math-italic.woff",
+    "lib/fonts/mathjax_main-italic.woff",
+    "lib/fonts/mathjax_math-bolditalic.woff",
+    "lib/fonts/mathjax_size1-regular.woff",
+    "lib/fonts/mathjax_size2-regular.woff",
+    "lib/fonts/mathjax_size3-regular.woff",
+    "lib/fonts/mathjax_size4-regular.woff",
+    "lib/fonts/mathjax_ams-regular.woff",
+    "lib/fonts/mathjax_calligraphic-regular.woff",
+    "lib/fonts/mathjax_calligraphic-bold.woff",
+    "lib/fonts/mathjax_fraktur-regular.woff",
+    "lib/fonts/mathjax_fraktur-bold.woff",
+    "lib/fonts/mathjax_sansserif-regular.woff",
+    "lib/fonts/mathjax_sansserif-bold.woff",
+    "lib/fonts/mathjax_sansserif-italic.woff",
+    "lib/fonts/mathjax_script-regular.woff",
+    "lib/fonts/mathjax_typewriter-regular.woff",
+    "lib/fonts/mathjax_vector-regular.woff",
+    "lib/fonts/mathjax_vector-bold.woff",
+    "lib/html/file-tree.html",
+    "lib/scripts/webpage.js",
+    "lib/scripts/graph-view.js",
+    "lib/scripts/graph-wasm.js",
+    "lib/scripts/graph-render-worker.js",
+    "lib/scripts/tinycolor.js",
+    "lib/scripts/pixi.js",
+    "lib/scripts/minisearch.js",
+    "lib/media/favicon.png",
+    "lib/scripts/graph-data.js",
+    "lib/styles/obsidian.css",
+    "lib/styles/global-variable-styles.css",
+    "lib/styles/main-styles.css",
+    "lib/styles/snippets.css"
+  ],
+  "fileInfo": {
+    "草稿/集合论.md": {
+      "modifiedTime": 1718533592332,
+      "sourceSize": 3574,
+      "exportedPath": "草稿/集合论.html",
+      "dependencies": []
+    },
+    "math/alge-ana/Algebraic Number Theory.md": {
+      "modifiedTime": 1718533592332,
+      "sourceSize": 312,
+      "exportedPath": "math/alge-ana/algebraic-number-theory.html",
+      "dependencies": []
+    },
+    "math/alge-ana/Discrete Mathematics.md": {
+      "modifiedTime": 1718533592332,
+      "sourceSize": 280,
+      "exportedPath": "math/alge-ana/discrete-mathematics.html",
+      "dependencies": []
+    },
+    "math/alge-ana/Game Theory.md": {
+      "modifiedTime": 1718533592332,
+      "sourceSize": 705,
+      "exportedPath": "math/alge-ana/game-theory.html",
+      "dependencies": []
+    },
+    "math/alge-ana/Number Theory.md": {
+      "modifiedTime": 1718533592332,
+      "sourceSize": 288,
+      "exportedPath": "math/alge-ana/number-theory.html",
+      "dependencies": []
+    },
+    "math/alge-ana-geo/ana/Advanced Probability Theory.md": {
+      "modifiedTime": 1718533592332,
+      "sourceSize": 808,
+      "exportedPath": "math/alge-ana-geo/ana/advanced-probability-theory.html",
+      "dependencies": []
+    },
+    "math/alge-ana-geo/ana/calculus.md": {
+      "modifiedTime": 1718533592332,
+      "sourceSize": 2672,
+      "exportedPath": "math/alge-ana-geo/ana/calculus.html",
+      "dependencies": []
+    },
+    "math/alge-ana-geo/ana/precalculus.md": {
+      "modifiedTime": 1718533592332,
+      "sourceSize": 14190,
+      "exportedPath": "math/alge-ana-geo/ana/precalculus.html",
+      "dependencies": []
+    },
+    "math/alge-ana-geo/ana/Probability Theory.md": {
+      "modifiedTime": 1718533592332,
+      "sourceSize": 2954,
+      "exportedPath": "math/alge-ana-geo/ana/probability-theory.html",
+      "dependencies": []
+    },
+    "math/alge-ana-geo/ana-alge/Advanced Mathematical Analysis.md": {
+      "modifiedTime": 1718533592332,
+      "sourceSize": 335,
+      "exportedPath": "math/alge-ana-geo/ana-alge/advanced-mathematical-analysis.html",
+      "dependencies": []
+    },
+    "math/alge-ana-geo/ana-alge/Advanced Mathematical Statistics.md": {
+      "modifiedTime": 1718533592332,
+      "sourceSize": 847,
+      "exportedPath": "math/alge-ana-geo/ana-alge/advanced-mathematical-statistics.html",
+      "dependencies": []
+    },
+    "math/alge-ana-geo/ana-alge/Mathematical Analysis.md": {
+      "modifiedTime": 1718533592332,
+      "sourceSize": 578,
+      "exportedPath": "math/alge-ana-geo/ana-alge/mathematical-analysis.html",
+      "dependencies": []
+    },
+    "math/alge-ana-geo/ana-alge/Mathematical Statistics.md": {
+      "modifiedTime": 1718533592332,
+      "sourceSize": 6539,
+      "exportedPath": "math/alge-ana-geo/ana-alge/mathematical-statistics.html",
+      "dependencies": []
+    },
+    "math/alge-ana-geo/ana-alge/Numercial Analysis.md": {
+      "modifiedTime": 1718533592332,
+      "sourceSize": 475,
+      "exportedPath": "math/alge-ana-geo/ana-alge/numercial-analysis.html",
+      "dependencies": []
+    },
+    "math/alge-ana-geo/Algebraic Topology.md": {
+      "modifiedTime": 1718533592332,
+      "sourceSize": 310,
+      "exportedPath": "math/alge-ana-geo/algebraic-topology.html",
+      "dependencies": []
+    },
+    "math/alge-ana-geo/Algebraic Topology Motivation.md": {
+      "modifiedTime": 1718533592332,
+      "sourceSize": 494,
+      "exportedPath": "math/alge-ana-geo/algebraic-topology-motivation.html",
+      "dependencies": []
+    },
+    "math/alge-ana-geo/General Topology.md": {
+      "modifiedTime": 1718533592332,
+      "sourceSize": 588,
+      "exportedPath": "math/alge-ana-geo/general-topology.html",
+      "dependencies": []
+    },
+    "math/alge-geo/Advanced Linear Algebra.md": {
+      "modifiedTime": 1718533592332,
+      "sourceSize": 581,
+      "exportedPath": "math/alge-geo/advanced-linear-algebra.html",
+      "dependencies": []
+    },
+    "math/alge-geo/Algebraic Geometry.md": {
+      "modifiedTime": 1718533592332,
+      "sourceSize": 390,
+      "exportedPath": "math/alge-geo/algebraic-geometry.html",
+      "dependencies": []
+    },
+    "math/alge-geo/Algebraic Geometry Motivation.md": {
+      "modifiedTime": 1718533592332,
+      "sourceSize": 272,
+      "exportedPath": "math/alge-geo/algebraic-geometry-motivation.html",
+      "dependencies": []
+    },
+    "math/alge-geo/Category Theory.md": {
+      "modifiedTime": 1718533592332,
+      "sourceSize": 432,
+      "exportedPath": "math/alge-geo/category-theory.html",
+      "dependencies": []
+    },
+    "math/alge-geo/Combinatorics.md": {
+      "modifiedTime": 1718533592332,
+      "sourceSize": 541,
+      "exportedPath": "math/alge-geo/combinatorics.html",
+      "dependencies": []
+    },
+    "math/alge-geo/Lattice Theory.md": {
+      "modifiedTime": 1718533592332,
+      "sourceSize": 162,
+      "exportedPath": "math/alge-geo/lattice-theory.html",
+      "dependencies": []
+    },
+    "math/alge-geo/Linear Algebra.md": {
+      "modifiedTime": 1718533592332,
+      "sourceSize": 4355,
+      "exportedPath": "math/alge-geo/linear-algebra.html",
+      "dependencies": []
+    },
+    "math/alge-geo/Motivation for Category Theory.md": {
+      "modifiedTime": 1718533592332,
+      "sourceSize": 515,
+      "exportedPath": "math/alge-geo/motivation-for-category-theory.html",
+      "dependencies": []
+    },
+    "math/algebra/Abstract Algebra.md": {
+      "modifiedTime": 1718533592332,
+      "sourceSize": 456,
+      "exportedPath": "math/algebra/abstract-algebra.html",
+      "dependencies": []
+    },
+    "math/algebra/Advanced Abstract Algebra.md": {
+      "modifiedTime": 1718533592332,
+      "sourceSize": 830,
+      "exportedPath": "math/algebra/advanced-abstract-algebra.html",
+      "dependencies": []
+    },
+    "math/algebra/Universal Algebra.md": {
+      "modifiedTime": 1718533592332,
+      "sourceSize": 757,
+      "exportedPath": "math/algebra/universal-algebra.html",
+      "dependencies": []
+    },
+    "math/ana-geo/Advanced Differential Geometry.md": {
+      "modifiedTime": 1718533592332,
+      "sourceSize": 582,
+      "exportedPath": "math/ana-geo/advanced-differential-geometry.html",
+      "dependencies": []
+    },
+    "math/ana-geo/Complex Analysis.md": {
+      "modifiedTime": 1718533592332,
+      "sourceSize": 497,
+      "exportedPath": "math/ana-geo/complex-analysis.html",
+      "dependencies": []
+    },
+    "math/ana-geo/Convex Optimization.md": {
+      "modifiedTime": 1718533592332,
+      "sourceSize": 451,
+      "exportedPath": "math/ana-geo/convex-optimization.html",
+      "dependencies": []
+    },
+    "math/ana-geo/Differential Equations.md": {
+      "modifiedTime": 1718533592332,
+      "sourceSize": 502,
+      "exportedPath": "math/ana-geo/differential-equations.html",
+      "dependencies": []
+    },
+    "math/ana-geo/Differential Geometry.md": {
+      "modifiedTime": 1718533592332,
+      "sourceSize": 500,
+      "exportedPath": "math/ana-geo/differential-geometry.html",
+      "dependencies": []
+    },
+    "math/ana-geo/Optimization Theory.md": {
+      "modifiedTime": 1718533592332,
+      "sourceSize": 591,
+      "exportedPath": "math/ana-geo/optimization-theory.html",
+      "dependencies": []
+    },
+    "math/ana-geo/Partial Differential Equations.md": {
+      "modifiedTime": 1718533592332,
+      "sourceSize": 490,
+      "exportedPath": "math/ana-geo/partial-differential-equations.html",
+      "dependencies": []
+    },
+    "math/analysis/Functional Analysis.md": {
+      "modifiedTime": 1718533592332,
+      "sourceSize": 260,
+      "exportedPath": "math/analysis/functional-analysis.html",
+      "dependencies": []
+    },
+    "math/analysis/Real Analysis.md": {
+      "modifiedTime": 1718533592332,
+      "sourceSize": 510,
+      "exportedPath": "math/analysis/real-analysis.html",
+      "dependencies": []
+    },
+    "math/analysis/the Theory of Computation.md": {
+      "modifiedTime": 1718533592332,
+      "sourceSize": 359,
+      "exportedPath": "math/analysis/the-theory-of-computation.html",
+      "dependencies": []
+    },
+    "math/basis/Axiomatic Set Theory.md": {
+      "modifiedTime": 1718533592332,
+      "sourceSize": 664,
+      "exportedPath": "math/basis/axiomatic-set-theory.html",
+      "dependencies": []
+    },
+    "math/basis/Mathematical Logic and Model Theory.md": {
+      "modifiedTime": 1718533592332,
+      "sourceSize": 600,
+      "exportedPath": "math/basis/mathematical-logic-and-model-theory.html",
+      "dependencies": []
+    },
+    "math/basis/Naive Set Theory, Mathematical Reasoning, Proofs, and Discrete Mathematics.md": {
+      "modifiedTime": 1718533592332,
+      "sourceSize": 3031,
+      "exportedPath": "math/basis/naive-set-theory,-mathematical-reasoning,-proofs,-and-discrete-mathematics.html",
+      "dependencies": []
+    },
+    "math/geo/Euclidean and Non-Euclidean Geometry.md": {
+      "modifiedTime": 1718533592332,
+      "sourceSize": 1559,
+      "exportedPath": "math/geo/euclidean-and-non-euclidean-geometry.html",
+      "dependencies": []
+    },
+    "optional/Physics.md": {
+      "modifiedTime": 1718533592332,
+      "sourceSize": 4884,
+      "exportedPath": "optional/physics.html",
+      "dependencies": []
+    },
+    "optional/Python.md": {
+      "modifiedTime": 1718533592332,
+      "sourceSize": 438,
+      "exportedPath": "optional/python.html",
+      "dependencies": []
+    },
+    "philosophy/Logic.md": {
+      "modifiedTime": 1718533592332,
+      "sourceSize": 1279,
+      "exportedPath": "philosophy/logic.html",
+      "dependencies": []
+    },
+    "philosophy/Philosophy.md": {
+      "modifiedTime": 1718533592332,
+      "sourceSize": 2101,
+      "exportedPath": "philosophy/philosophy.html",
+      "dependencies": []
+    },
+    "philosophy/Philosophy of Probability and Statistics.md": {
+      "modifiedTime": 1718533592332,
+      "sourceSize": 3672,
+      "exportedPath": "philosophy/philosophy-of-probability-and-statistics.html",
+      "dependencies": []
+    },
+    "philosophy/Problem Solving.md": {
+      "modifiedTime": 1718533592332,
+      "sourceSize": 4631,
+      "exportedPath": "philosophy/problem-solving.html",
+      "dependencies": []
+    },
+    "philosophy/Statistics.md": {
+      "modifiedTime": 1718533592332,
+      "sourceSize": 3362,
+      "exportedPath": "philosophy/statistics.html",
+      "dependencies": []
+    },
+    "philosophy/the Philosophy of Language.md": {
+      "modifiedTime": 1718533592332,
+      "sourceSize": 3097,
+      "exportedPath": "philosophy/the-philosophy-of-language.html",
+      "dependencies": []
+    },
+    "philosophy/the Philosophy of Mathematics and Logic.md": {
+      "modifiedTime": 1718533592332,
+      "sourceSize": 13038,
+      "exportedPath": "philosophy/the-philosophy-of-mathematics-and-logic.html",
+      "dependencies": []
+    },
+    "数学-main.md": {
+      "modifiedTime": 1718533592332,
+      "sourceSize": 9912,
+      "exportedPath": "数学-main.html",
+      "dependencies": []
+    },
+    "main-main.md": {
+      "modifiedTime": 1719195227871,
+      "sourceSize": 2169,
+      "exportedPath": "main-main.html",
+      "dependencies": []
+    },
+    "lib/scripts/graph-wasm.wasm": {
+      "modifiedTime": 1719195227871,
+      "sourceSize": 23377,
+      "exportedPath": "lib/scripts/graph-wasm.wasm",
+      "dependencies": []
+    },
+    "lib/fonts/94f2f163d4b698242fef.otf": {
+      "modifiedTime": 1719195227871,
+      "sourceSize": 66800,
+      "exportedPath": "lib/fonts/94f2f163d4b698242fef.otf",
+      "dependencies": []
+    },
+    "lib/fonts/72505e6a122c6acd5471.woff2": {
+      "modifiedTime": 1719195227871,
+      "sourceSize": 104232,
+      "exportedPath": "lib/fonts/72505e6a122c6acd5471.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/2d5198822ab091ce4305.woff2": {
+      "modifiedTime": 1719195227871,
+      "sourceSize": 104332,
+      "exportedPath": "lib/fonts/2d5198822ab091ce4305.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/c8ba52b05a9ef10f4758.woff2": {
+      "modifiedTime": 1719195227871,
+      "sourceSize": 98868,
+      "exportedPath": "lib/fonts/c8ba52b05a9ef10f4758.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/cb10ffd7684cd9836a05.woff2": {
+      "modifiedTime": 1719195227871,
+      "sourceSize": 106876,
+      "exportedPath": "lib/fonts/cb10ffd7684cd9836a05.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/b5f0f109bc88052d4000.woff2": {
+      "modifiedTime": 1719195227871,
+      "sourceSize": 105804,
+      "exportedPath": "lib/fonts/b5f0f109bc88052d4000.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/cbe0ae49c52c920fd563.woff2": {
+      "modifiedTime": 1719195227871,
+      "sourceSize": 106108,
+      "exportedPath": "lib/fonts/cbe0ae49c52c920fd563.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/535a6cf662596b3bd6a6.woff2": {
+      "modifiedTime": 1719195227871,
+      "sourceSize": 111708,
+      "exportedPath": "lib/fonts/535a6cf662596b3bd6a6.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/70cc7ff27245e82ad414.ttf": {
+      "modifiedTime": 1719195227871,
+      "sourceSize": 192740,
+      "exportedPath": "lib/fonts/70cc7ff27245e82ad414.ttf",
+      "dependencies": []
+    },
+    "lib/fonts/454577c22304619db035.ttf": {
+      "modifiedTime": 1719195227871,
+      "sourceSize": 161376,
+      "exportedPath": "lib/fonts/454577c22304619db035.ttf",
+      "dependencies": []
+    },
+    "lib/fonts/52ac8f3034507f1d9e53.ttf": {
+      "modifiedTime": 1719195227871,
+      "sourceSize": 191568,
+      "exportedPath": "lib/fonts/52ac8f3034507f1d9e53.ttf",
+      "dependencies": []
+    },
+    "lib/fonts/05b618077343fbbd92b7.ttf": {
+      "modifiedTime": 1719195227871,
+      "sourceSize": 155288,
+      "exportedPath": "lib/fonts/05b618077343fbbd92b7.ttf",
+      "dependencies": []
+    },
+    "lib/fonts/4bb6ac751d1c5478ff3a.woff2": {
+      "modifiedTime": 1719195227871,
+      "sourceSize": 7876,
+      "exportedPath": "lib/fonts/4bb6ac751d1c5478ff3a.woff2",
+      "dependencies": []
+    },
+    "lib/media/874d8b8e340f75575caa.svg": {
+      "modifiedTime": 1719195227871,
+      "sourceSize": 317,
+      "exportedPath": "lib/media/874d8b8e340f75575caa.svg",
+      "dependencies": []
+    },
+    "lib/media/3d6c1bdc4d87cde4de67.svg": {
+      "modifiedTime": 1719195227871,
+      "sourceSize": 279,
+      "exportedPath": "lib/media/3d6c1bdc4d87cde4de67.svg",
+      "dependencies": []
+    },
+    "lib/fonts/mathjax_zero.woff": {
+      "modifiedTime": 1719195227871,
+      "sourceSize": 1368,
+      "exportedPath": "lib/fonts/mathjax_zero.woff",
+      "dependencies": []
+    },
+    "lib/fonts/mathjax_main-regular.woff": {
+      "modifiedTime": 1719195227871,
+      "sourceSize": 34160,
+      "exportedPath": "lib/fonts/mathjax_main-regular.woff",
+      "dependencies": []
+    },
+    "lib/fonts/mathjax_main-bold.woff": {
+      "modifiedTime": 1719195227871,
+      "sourceSize": 34464,
+      "exportedPath": "lib/fonts/mathjax_main-bold.woff",
+      "dependencies": []
+    },
+    "lib/fonts/mathjax_math-italic.woff": {
+      "modifiedTime": 1719195227871,
+      "sourceSize": 19360,
+      "exportedPath": "lib/fonts/mathjax_math-italic.woff",
+      "dependencies": []
+    },
+    "lib/fonts/mathjax_main-italic.woff": {
+      "modifiedTime": 1719195227871,
+      "sourceSize": 20832,
+      "exportedPath": "lib/fonts/mathjax_main-italic.woff",
+      "dependencies": []
+    },
+    "lib/fonts/mathjax_math-bolditalic.woff": {
+      "modifiedTime": 1719195227871,
+      "sourceSize": 19776,
+      "exportedPath": "lib/fonts/mathjax_math-bolditalic.woff",
+      "dependencies": []
+    },
+    "lib/fonts/mathjax_size1-regular.woff": {
+      "modifiedTime": 1719195227871,
+      "sourceSize": 5792,
+      "exportedPath": "lib/fonts/mathjax_size1-regular.woff",
+      "dependencies": []
+    },
+    "lib/fonts/mathjax_size2-regular.woff": {
+      "modifiedTime": 1719195227871,
+      "sourceSize": 5464,
+      "exportedPath": "lib/fonts/mathjax_size2-regular.woff",
+      "dependencies": []
+    },
+    "lib/fonts/mathjax_size3-regular.woff": {
+      "modifiedTime": 1719195227871,
+      "sourceSize": 3244,
+      "exportedPath": "lib/fonts/mathjax_size3-regular.woff",
+      "dependencies": []
+    },
+    "lib/fonts/mathjax_size4-regular.woff": {
+      "modifiedTime": 1719195227871,
+      "sourceSize": 5148,
+      "exportedPath": "lib/fonts/mathjax_size4-regular.woff",
+      "dependencies": []
+    },
+    "lib/fonts/mathjax_ams-regular.woff": {
+      "modifiedTime": 1719195227871,
+      "sourceSize": 40808,
+      "exportedPath": "lib/fonts/mathjax_ams-regular.woff",
+      "dependencies": []
+    },
+    "lib/fonts/mathjax_calligraphic-regular.woff": {
+      "modifiedTime": 1719195227871,
+      "sourceSize": 9600,
+      "exportedPath": "lib/fonts/mathjax_calligraphic-regular.woff",
+      "dependencies": []
+    },
+    "lib/fonts/mathjax_calligraphic-bold.woff": {
+      "modifiedTime": 1719195227871,
+      "sourceSize": 9908,
+      "exportedPath": "lib/fonts/mathjax_calligraphic-bold.woff",
+      "dependencies": []
+    },
+    "lib/fonts/mathjax_fraktur-regular.woff": {
+      "modifiedTime": 1719195227871,
+      "sourceSize": 21480,
+      "exportedPath": "lib/fonts/mathjax_fraktur-regular.woff",
+      "dependencies": []
+    },
+    "lib/fonts/mathjax_fraktur-bold.woff": {
+      "modifiedTime": 1719195227871,
+      "sourceSize": 22340,
+      "exportedPath": "lib/fonts/mathjax_fraktur-bold.woff",
+      "dependencies": []
+    },
+    "lib/fonts/mathjax_sansserif-regular.woff": {
+      "modifiedTime": 1719195227871,
+      "sourceSize": 12660,
+      "exportedPath": "lib/fonts/mathjax_sansserif-regular.woff",
+      "dependencies": []
+    },
+    "lib/fonts/mathjax_sansserif-bold.woff": {
+      "modifiedTime": 1719195227871,
+      "sourceSize": 15944,
+      "exportedPath": "lib/fonts/mathjax_sansserif-bold.woff",
+      "dependencies": []
+    },
+    "lib/fonts/mathjax_sansserif-italic.woff": {
+      "modifiedTime": 1719195227871,
+      "sourceSize": 14628,
+      "exportedPath": "lib/fonts/mathjax_sansserif-italic.woff",
+      "dependencies": []
+    },
+    "lib/fonts/mathjax_script-regular.woff": {
+      "modifiedTime": 1719195227871,
+      "sourceSize": 11852,
+      "exportedPath": "lib/fonts/mathjax_script-regular.woff",
+      "dependencies": []
+    },
+    "lib/fonts/mathjax_typewriter-regular.woff": {
+      "modifiedTime": 1719195227871,
+      "sourceSize": 17604,
+      "exportedPath": "lib/fonts/mathjax_typewriter-regular.woff",
+      "dependencies": []
+    },
+    "lib/fonts/mathjax_vector-regular.woff": {
+      "modifiedTime": 1719195227871,
+      "sourceSize": 1136,
+      "exportedPath": "lib/fonts/mathjax_vector-regular.woff",
+      "dependencies": []
+    },
+    "lib/fonts/mathjax_vector-bold.woff": {
+      "modifiedTime": 1719195227871,
+      "sourceSize": 1116,
+      "exportedPath": "lib/fonts/mathjax_vector-bold.woff",
+      "dependencies": []
+    },
+    "lib/html/file-tree.html": {
+      "modifiedTime": 1719195227871,
+      "sourceSize": 31892,
+      "exportedPath": "lib/html/file-tree.html",
+      "dependencies": []
+    },
+    "lib/scripts/webpage.js": {
+      "modifiedTime": 1719195227871,
+      "sourceSize": 47290,
+      "exportedPath": "lib/scripts/webpage.js",
+      "dependencies": []
+    },
+    "lib/scripts/graph-view.js": {
+      "modifiedTime": 1719195227871,
+      "sourceSize": 15519,
+      "exportedPath": "lib/scripts/graph-view.js",
+      "dependencies": []
+    },
+    "lib/scripts/graph-wasm.js": {
+      "modifiedTime": 1719195227871,
+      "sourceSize": 14021,
+      "exportedPath": "lib/scripts/graph-wasm.js",
+      "dependencies": []
+    },
+    "lib/scripts/graph-render-worker.js": {
+      "modifiedTime": 1719195227871,
+      "sourceSize": 5179,
+      "exportedPath": "lib/scripts/graph-render-worker.js",
+      "dependencies": []
+    },
+    "lib/scripts/tinycolor.js": {
+      "modifiedTime": 1719195227871,
+      "sourceSize": 29832,
+      "exportedPath": "lib/scripts/tinycolor.js",
+      "dependencies": []
+    },
+    "lib/scripts/pixi.js": {
+      "modifiedTime": 1719195227871,
+      "sourceSize": 449509,
+      "exportedPath": "lib/scripts/pixi.js",
+      "dependencies": []
+    },
+    "lib/scripts/minisearch.js": {
+      "modifiedTime": 1719195227871,
+      "sourceSize": 29422,
+      "exportedPath": "lib/scripts/minisearch.js",
+      "dependencies": []
+    },
+    "lib/media/favicon.png": {
+      "modifiedTime": 1719195227871,
+      "sourceSize": 1105,
+      "exportedPath": "lib/media/favicon.png",
+      "dependencies": []
+    },
+    "lib/scripts/graph-data.js": {
+      "modifiedTime": 1719195227871,
+      "sourceSize": 5102,
+      "exportedPath": "lib/scripts/graph-data.js",
+      "dependencies": []
+    },
+    "lib/styles/obsidian.css": {
+      "modifiedTime": 1719195227871,
+      "sourceSize": 130183,
+      "exportedPath": "lib/styles/obsidian.css",
+      "dependencies": []
+    },
+    "lib/styles/global-variable-styles.css": {
+      "modifiedTime": 1719195227871,
+      "sourceSize": 210,
+      "exportedPath": "lib/styles/global-variable-styles.css",
+      "dependencies": []
+    },
+    "lib/styles/main-styles.css": {
+      "modifiedTime": 1719195227871,
+      "sourceSize": 23130,
+      "exportedPath": "lib/styles/main-styles.css",
+      "dependencies": []
+    },
+    "lib/styles/snippets.css": {
+      "modifiedTime": 1719195227871,
+      "sourceSize": 20611,
+      "exportedPath": "lib/styles/snippets.css",
+      "dependencies": []
+    },
+    "assets/en/Daniel J Velleman - How to Prove It-A Structured Approach (2019).pdf": {
+      "modifiedTime": 1719195227871,
+      "sourceSize": 4684625,
+      "exportedPath": "assets/en/daniel-j-velleman-how-to-prove-it-a-structured-approach-(2019).pdf",
+      "dependencies": []
+    },
+    "assets/en/James Stewart, Lothar Redlin, Saleem Watson - Precalculus. Mathematics for Calculus-Cengage Learning (2024).pdf": {
+      "modifiedTime": 1719195227871,
+      "sourceSize": 80790312,
+      "exportedPath": "assets/en/james-stewart,-lothar-redlin,-saleem-watson-precalculus.-mathematics-for-calculus-cengage-learning-(2024).pdf",
+      "dependencies": []
+    },
+    "assets/en/sd.html": {
+      "modifiedTime": 1719195227871,
+      "sourceSize": 292,
+      "exportedPath": "assets/en/sd.html",
+      "dependencies": []
+    },
+    "assets/solution/Daniel J Velleman - How to Prove It_ A Structured Approach, Third Edition [3rd Ed] (Instructor's Solution Manual, Solutions)-Cambridge University Press, C.U.P, CUP (2019).pdf": {
+      "modifiedTime": 1719195227871,
+      "sourceSize": 1152191,
+      "exportedPath": "assets/solution/daniel-j-velleman-how-to-prove-it_-a-structured-approach,-third-edition-[3rd-ed]-(instructor's-solution-manual,-solutions)-cambridge-university-press,-c.u.p,-cup-(2019).pdf",
+      "dependencies": []
+    }
+  }
+}
